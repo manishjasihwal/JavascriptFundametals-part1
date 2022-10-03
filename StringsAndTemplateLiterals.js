@@ -8,6 +8,9 @@ console.log(friends); //['Ritesh' , 'Amit' , 'Sudhir']
 const years = new Array(1991, 1984, 2007, 2006);
 console.log(years);
 
+const colors = new Array("Red", "Blue", "Green");
+console.log(colors);
+
 console.log(friends[0]); //Ritesh
 console.log(friends[2]); //Sudhir
 console.log(friends[3]); //undefined
